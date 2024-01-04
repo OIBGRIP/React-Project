@@ -1,0 +1,22 @@
+.screenCount {
+    font-size: 14px;
+    line-height: 17px;
+    color: #3f3f3f;
+    display: flex; 
+    padding: 20px;
+    padding-right: 10px;
+    height: 3px;
+}
+
+.data-Modified {
+    font-size: 12px;
+    line-height: 15px;
+    display: flex;
+    padding-left: 20px;
+}
+
+.gridViewSwitchButtonContainer-zbYMs {
+    position: fixed;
+    top: 70px;
+    right: 32px;
+}
